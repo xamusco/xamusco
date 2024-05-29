@@ -2,7 +2,7 @@
 
 ⚠☢
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xamusco&show_icons=true&bg_color=1c0727&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xamusco&show_icons=true&bg_color=1c0727&hide_border=true&text_color=a9a9a9&title_color=000080&icon_color=000080)
 <!--
 **xamusco/xamusco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
